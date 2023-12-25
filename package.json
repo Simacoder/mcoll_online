@@ -1,0 +1,14 @@
+{
+  "name": "mpilo_web",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "scripts": {
+    "sass": "sass --watch --style expanded scss/style.scss css/style.css"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "swiper": "^11.0.5"
+  }
+}
